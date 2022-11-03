@@ -3,7 +3,7 @@
 /**
  * main - Program that prints all the arguments, without using ac
  * @ac: number of items in av
- * @av: NULL terminated array of strings
+ * @av: NULL terminated array of strings or arguments vector
  * Return: Always 0.
  */
 
